@@ -1,53 +1,55 @@
-# David Allysson
-Desenvolvedor Web - Junior / Front-end e Back-end.
+# Oziel Sousa
+Desenvolvedor Web - Junior
 
-:house:    Natal/RN <br>
-:iphone:   (84) 98776 - 5436 <br>
-:envelope:  davidmoreirainformatica@gmail.com
+:house:    [Luziânia - Goias/GO](https://maps.app.goo.gl/eoufezGsvUSJwgeu7) <br>
+:iphone:   [_(61) 99256 - 7936_](https://api.whatsapp.com/send?phone=551992567936&)<br> 
+:envelope:  sousabelcher@gmail.com
 
-Meu nome é David Allysson, sou Desenvolvedor Web apaixonado por PHP e Material Design, com grande interesse em Javascript e Bootstrap. Músico nas horas vagas, adoro acampar, ler e estudo psicologia como hobbie.
+Meu nome é Oziel Sousa, sou um profissional de vendas em transição de carreira para o mundo do desenvolvimento web. Tenho uma paixão ardente por Python e Material Design, com um forte interesse em JavaScript e Análise de Dados. Nas horas vagas, adoro passar tempo de qualidade com meus filhos e estou sempre dedicado a aprimorar minhas habilidades na área de desenvolvimento.
 
 ## Formação
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Técnico em Informática <br>
-Concluído em 2016
+* UNISEB COC Faculdade <br>
+Superior Tecnológico em Marketing <br>
+Conclusão parcial em 2016 <br>
+  * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding. 
 
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#técnico-em-informática)
-
-Instituto Federal de Educação, Ciência e Tecnologia do RN - Tecnólogo em Analise e Desenvolvimento de Sistemas <br>
-3 º Semestre - Finalização em 2020
-
-[_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-análise-e-desenvolvimento-de-sistemas)
+## Educação Continuada
+* Digital Innovation One (DIO) <br>
+Bootcamp Santander <br>
+Previsão de Conclusão: Outubro de 2023 <br>
+  * Estou participando do Bootcamp Santander, programado para concluir em outubro de 2023. Este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Python, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.
+[_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
+[_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
 
 ## Experência Profissional
-* (2017 -  Atual) <br>
-**IFRN - Campus Natal Central** -
-Estagiário na Diretoria de Pesquisa e Extensão do Campus (DIPEQ).
-  * Colaborar no desenvolvimento do projeto que monitora a evasão escolar do Campus.
-  * Corrigir bugs no projeto e desenvolver novas funcionalidades.
-
+* (2020 -  Atual) <br>
+**Vendedor Autônomo** -
+Vendas de produtos Têxteis(panos de prato e chão):
+  * Com abordagem direta, demonstrando habilidades de comunicação e adaptabilidade em diferentes cenários de vendas.
+  * Em transição de carreira, uso o meios das vendas para fazer novos cursos e gerar oportunidades na área de desenvolvimento web e programação.
 
 * (2015 -  2016) <br>
-**Prefeitura de São Gonçalo do Amarante** -
-Estagiário na Subsecretaria de Tecnologia da Informação e Ciência (SETIC).
-  * Colaborar no desenvolvimento dos projetos da Prefeitura.
-  * Corrigir pequenos bugs no Front-end e no Back-end.
-
-
-* (2013 -  2015) <br>
-**IFRN - Campus São Gonçalo do Amarante** -
-Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada e Orientada a Objetos).
-  * Ser responsável pelo laboratório utilizado pelos alunos.
-  * Solucionar dúvidas referentes as disciplinas.
+**Deriv.com** -
+Consultor de afiliados - Freelancer
+  * Atuava em uma plataforma de negociação online, oferecendo direcionamento e orientação valiosa a novos traders. .
+  * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders.
 
 ## Conhecimentos
+### Idioma
+* Inglês Nível B2, capaz de se comunicar efetivamente em inglês em situações cotidianas e profissionais, embora possa haver espaço para melhorias e aprofundamento em áreas específicas do idioma.
+  
+[_Clique aqui para ver meus progessos no DUOLINGO_](https://media.licdn.com/dms/image/D4D22AQFbf0DdR9HAyQ/feedshare-shrink_800/0/1690831380456?e=1698278400&v=beta&t=dzrCzWvBJZITtCUn0G9umhXXALlb8i-e57LAe4TuQWA)<br>
+[_Clique aqui para ver meus progessos ENGLISH NO CODE._](https://media.licdn.com/dms/image/C4D22AQG-AU9ojNV90g/feedshare-shrink_800/0/1663295820148?e=1698278400&v=beta&t=Jw_95fP5ePFFVIESmMKrfhcoLjPjXx-HEX7ZvXnmmcY)<br>
+[_Clique aqui para ver meus progessos BY ELSA SPEAK._](https://media.licdn.com/dms/image/D4D22AQFwfr_pClQfMg/feedshare-shrink_800/0/1684770912977?e=1698278400&v=beta&t=XnAzlNUcEF5fQBrPyKo5aVOlyhsA0lnmVci4-iM7LDM)<br>
 
 ### Gerais
 * Lógica de Programação.
-* Inglês suficiente para ler e entender.
+* Fundamentos do Azure
+* Cloud Computing & Serverless
 
 ### Sistemas Operacionais
-* Linux
 * Windows
+* Android
 
 ### Front-end
 * HTML.
@@ -57,58 +59,52 @@ Monitor na disciplina de Algoritmo e Programação de Computadores (Estruturada 
   * Arquitetura BEM
 
 ### UI Kits
-* Material Kit.
+* Shoelace
 * Materialize.
 * Bootstrap.
 
 ### Frameworks Front-end
-* Vue.js
+* Angular (em andamento na DIO)
 
 ### Linguagens de Programação
 * Java.
-* PHP.
-* Ruby.
+* Node.js (em andamento na DIO)
+* R.
 * Python.
+* JavaScript.
 
 ### Frameworks Back-end
-* Laravel
+* Spring Boot (em andamento na DIO)
 
 ### Banco de Dados
-* MySQL.
-* PostgreSQL.
+* SQL.
+* Power BI
 
 ### Sistemas de controle de versão
 * Git.
+* Git Hub.
+* Git Bash.
 
 ## Projetos
-* [Site Pessoal](https://davidallysson.github.io/)
-* [Engecall](https://davidallysson.github.io/Engecall)
+* [Pokedex](https://lnkd.in/dXA-sWGW)
+* [Curriculo pelo GIThub](https://lnkd.in/diFPjD2A)
+* [Dio-lab-open-source](https://github.com/ozzysousa/dio-lab-open-source)
+* [Site Pessoal](https://hoocka.wixsite.com/sousabelcher/)<br>
+* [Operenobinario](https://opere-no-binario.webnode.page/)
 
-## Cursos Completos
-* Curso Git e Github para iniciantes (Udemy / [Certificado](#))
-* Curso Desenvolviento de Sistemas - Students To Business (S2B) (Microsoft / [Certificado](#))
+## Outros Cursos
+* Curso Git e Github para iniciantes (DIO / [Certificado](https://www.dio.me/certificate/7C1D6909/share)<br>
+* Análise de dados com Power BI (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQFwt_x0TJmpNA/feedshare-shrink_800/0/1694639900593?e=1698278400&v=beta&t=E_6_EeWaqwTRuDPV3RivL_nSa0ptqjGcFdWN61lPoTw)<br>
+* AI no Azure (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQG45wCvPGOolA/feedshare-shrink_800/0/1694141603655?e=1698278400&v=beta&t=HGQTSFzidObdx17uo4sTT-n6BVjtZFEKSsArWFerXNw)
 
-## Eventos como Participante
-* Campus Party Natal ( [Certificado](certificados/cpnatal.pdf) )
-* Code Girl - 5ª Edição ( [Certificado](certificados/code-girl-5.pdf) )
-* VII WTADS ( [Certificado](certificados/vii-workshop-tads.pdf) )
-* I EXPOTEC - IFRN/CM ( [Certificado](certificados/expotecifrncm-2017.pdf) )
-* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities.pdf) )
-* I Workshop do Nucleo Avançado de Inovação Tecnológica (NAVI) ( [Certificado](certificados/workshop-navi.pdf) )
-* Code Girl - 2ª Edição ( [Certificado](certificados/code-girl-2.pdf) )
-* IX CONNEPI - Congresso Norte Nordeste de Pesquisa e Inovação (2014) ( [Certificado](certificados/connepi-2014.pdf) / [Mostra Tecnológica](certificados/mostra-tecnologica.pdf) )
-* OBR - Olimpíada Brasileira de Robótica (2014) ( [Certificado](certificados/obr-2014.pdf) / [Honra Ao Mérito](certificados/obr-honra-ao-merito.pdf) )
-
-## Eventos como Organizador
-* 2nd French-Brazilian School on Big Data and Smart Cities ( [Certificado](certificados/smart-cities-organization.pdf) )
 
 ## Redes Sociais
-*  [Facebook](https://www.facebook.com/david.allysson.9)
-*  [Twitter](https://twitter.com/DaviDAllysson)
-*  [Linkedin](https://www.linkedin.com/in/david-allysson-527791118/)
+*  [Facebook](https://www.facebook.com/sousabelcher)
+*  [Twitter](https://twitter.com/sousabelcher)
+*  [Linkedin](https://www.linkedin.com/in/sousabelcher)
 
 ## Informações Adicionais
-* Premiado com a medalha de mérito da Olimpíada Brasileira de Robótica (OBR) – Modalidade Teórica (2014).
+* Programando com Plataforma Low Code OutSystems [Ver Certificado](https://media.licdn.com/dms/image/C4D22AQFqMOdfLpv04A/feedshare-shrink_1280/0/1595111851870?e=1698278400&v=beta&t=F8-Y5nraI7_kgEth6IFuoIbKBUW8Xbjtnbrj3CMvCAA)
 
 <br><br>
 
