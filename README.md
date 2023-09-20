@@ -8,7 +8,7 @@ Desenvolvedor Web - Junior
 Meu nome é Oziel Sousa, sou um profissional de vendas em transição de carreira para o mundo do desenvolvimento web. Tenho uma paixão ardente por Python e Material Design, com um forte interesse em JavaScript e Análise de Dados. Nas horas vagas, adoro passar tempo de qualidade com meus filhos e estou sempre dedicado a aprimorar minhas habilidades na área de desenvolvimento.
 
 ## Formação
-* UNISEB COC Faculdade <br>
+* UNISEB COC Centro Universitário <br>
 Superior Tecnológico em Marketing <br>
 Conclusão parcial em 2016 <br>
   * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding. 
