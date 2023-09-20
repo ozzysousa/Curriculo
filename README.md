@@ -8,23 +8,23 @@ Desenvolvedor Web - Junior
 Meu nome é Oziel Sousa, sou um profissional de vendas em transição de carreira para o mundo do desenvolvimento web. Tenho uma paixão ardente por Python e Material Design, com um forte interesse em JavaScript e Análise de Dados. Nas horas vagas, adoro passar tempo de qualidade com meus filhos e estou sempre dedicado a aprimorar minhas habilidades na área de desenvolvimento.
 
 ## Formação
-* UNISEB COC Centro Universitário <br>
+* [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
 Superior Tecnológico em Marketing <br>
 Conclusão parcial em 2016 <br>
   * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding. 
 
 ## Educação Continuada
-* Digital Innovation One (DIO) <br>
+* [Digital Innovation One (DIO)](https://www.dio.me/users/sousabelcher) <br>
 Bootcamp Santander <br>
 Previsão de Conclusão: Outubro de 2023 <br>
-  * Estou participando do Bootcamp Santander, programado para concluir em outubro de 2023. Este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Python, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.
+  * Estou participando do Bootcamp Santander, programado para concluir em outubro de 2023. Este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Python, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
 [_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
 [_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
 
 ## Experência Profissional
 * (2020 -  Atual) <br>
 **Vendedor Autônomo** -
-Vendas de produtos Têxteis(panos de prato e chão):
+Vendas de produtos Têxteis (panos de prato e chão):
   * Com abordagem direta, demonstrando habilidades de comunicação e adaptabilidade em diferentes cenários de vendas.
   * Em transição de carreira, uso o meios das vendas para fazer novos cursos e gerar oportunidades na área de desenvolvimento web e programação.
 
