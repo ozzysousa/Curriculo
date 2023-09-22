@@ -36,7 +36,7 @@ Consultor de afiliados - Freelancer
 
 ## Conhecimentos
 ### Idioma
-* Inglês Nível B2, capaz de se comunicar efetivamente em inglês em situações cotidianas e profissionais, embora possa haver espaço para melhorias e aprofundamento em áreas específicas do idioma.
+* Inglês Nível B1, compreendo as questões principais, entendo, escrevo e falo frases simples do idioma.
   
 [_Clique aqui para ver meus progessos no DUOLINGO_](https://media.licdn.com/dms/image/D4D22AQFbf0DdR9HAyQ/feedshare-shrink_800/0/1690831380456?e=1698278400&v=beta&t=dzrCzWvBJZITtCUn0G9umhXXALlb8i-e57LAe4TuQWA)<br>
 [_Clique aqui para ver meus progessos ENGLISH NO CODE._](https://media.licdn.com/dms/image/C4D22AQG-AU9ojNV90g/feedshare-shrink_800/0/1663295820148?e=1698278400&v=beta&t=Jw_95fP5ePFFVIESmMKrfhcoLjPjXx-HEX7ZvXnmmcY)<br>
