@@ -8,6 +8,11 @@ Desenvolvedor Web - Junior
 Meu nome é Oziel Sousa, sou um profissional de vendas em transição de carreira para o mundo do desenvolvimento web. Tenho uma paixão ardente por Python e Material Design, com um forte interesse em JavaScript e Análise de Dados. Nas horas vagas, adoro passar tempo de qualidade com meus filhos e estou sempre dedicado a aprimorar minhas habilidades na área de desenvolvimento.
 
 ## Formação
+* [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
+Análise e desenvolvimento de Sistemas<br>
+Conclusão em 2025 <br>
+  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados, e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.
+
 * [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
 Superior Tecnológico em Marketing <br>
 Conclusão parcial em 2016 <br>
@@ -25,7 +30,7 @@ Previsão de Conclusão: Outubro de 2023 <br>
 * (2020 -  Atual) <br>
 **Vendedor Autônomo** -
 Vendas de produtos Têxteis (panos de prato e chão):
-  * Com abordagem direta, demonstrando habilidades de comunicação e adaptabilidade em diferentes cenários de vendas.
+  * Com abordagem direta, faço essas vendas diretamente para os clientes que abordo nas localidades de Brasília. 
   * Em transição de carreira, uso o meios das vendas para fazer novos cursos e gerar oportunidades na área de desenvolvimento web e programação.
 
 * (2015 -  2016) <br>
@@ -71,6 +76,7 @@ Consultor de afiliados - Freelancer
 * Node.js (em andamento na DIO)
 * R.
 * Python.
+* TypeScript 
 * JavaScript.
 
 ### Frameworks Back-end
