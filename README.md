@@ -6,7 +6,7 @@ Desenvolvedor Web - Junior
 :envelope:  sousabelcher@gmail.com
 
 Meu nome é Oziel Sousa, sou um profissional de vendas em transição de carreira para o mundo do desenvolvimento web. Tenho uma paixão ardente por Python e Material Design, com um forte interesse em JavaScript e Análise de Dados. Nas horas vagas, adoro passar tempo de qualidade com meus filhos e estou sempre dedicado a aprimorar minhas habilidades na área de desenvolvimento.
-
+|----------------|
 ## Formação
 * [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
 Análise e desenvolvimento de Sistemas<br>
@@ -17,6 +17,7 @@ Conclusão em 2025 <br>
 Superior Tecnológico em Marketing <br>
 Conclusão parcial em 2016 <br>
   * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding. 
+---
 
 ## Educação Continuada
 * [Digital Innovation One (DIO)](https://www.dio.me/users/sousabelcher) <br>
@@ -25,6 +26,7 @@ Previsão de Conclusão: Outubro de 2023 <br>
   * Estou participando do Bootcamp Santander, programado para concluir em outubro de 2023. Este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Python, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
 [_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
 [_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
+---
 
 ## Experência Profissional
 * (2020 -  Atual) <br>
@@ -38,6 +40,7 @@ Vendas de produtos Têxteis (panos de prato e chão):
 Consultor de afiliados - Freelancer
   * Atuava em uma plataforma de negociação online, oferecendo direcionamento e orientação valiosa a novos traders. .
   * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders.
+---
 
 ## Conhecimentos
 ### Idioma
@@ -46,11 +49,13 @@ Consultor de afiliados - Freelancer
 [_Clique aqui para ver meus progessos no DUOLINGO_](https://media.licdn.com/dms/image/D4D22AQFbf0DdR9HAyQ/feedshare-shrink_800/0/1690831380456?e=1698278400&v=beta&t=dzrCzWvBJZITtCUn0G9umhXXALlb8i-e57LAe4TuQWA)<br>
 [_Clique aqui para ver meus progessos ENGLISH NO CODE._](https://media.licdn.com/dms/image/C4D22AQG-AU9ojNV90g/feedshare-shrink_800/0/1663295820148?e=1698278400&v=beta&t=Jw_95fP5ePFFVIESmMKrfhcoLjPjXx-HEX7ZvXnmmcY)<br>
 [_Clique aqui para ver meus progessos BY ELSA SPEAK._](https://media.licdn.com/dms/image/D4D22AQFwfr_pClQfMg/feedshare-shrink_800/0/1684770912977?e=1698278400&v=beta&t=XnAzlNUcEF5fQBrPyKo5aVOlyhsA0lnmVci4-iM7LDM)<br>
+---
 
 ### Gerais
 * Lógica de Programação.
 * Fundamentos do Azure
 * Cloud Computing & Serverless
+---
 
 ### Sistemas Operacionais
 * Windows
@@ -90,6 +95,7 @@ Consultor de afiliados - Freelancer
 * Git.
 * Git Hub.
 * Git Bash.
+---
 
 ## Projetos
 * [Pokedex](https://lnkd.in/dXA-sWGW)
@@ -102,12 +108,13 @@ Consultor de afiliados - Freelancer
 * Curso Git e Github para iniciantes (DIO / [Certificado](https://www.dio.me/certificate/7C1D6909/share)<br>
 * Análise de dados com Power BI (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQFwt_x0TJmpNA/feedshare-shrink_800/0/1694639900593?e=1698278400&v=beta&t=E_6_EeWaqwTRuDPV3RivL_nSa0ptqjGcFdWN61lPoTw)<br>
 * AI no Azure (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQG45wCvPGOolA/feedshare-shrink_800/0/1694141603655?e=1698278400&v=beta&t=HGQTSFzidObdx17uo4sTT-n6BVjtZFEKSsArWFerXNw)
-
+---
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/sousabelcher)
 *  [Twitter](https://twitter.com/sousabelcher)
 *  [Linkedin](https://www.linkedin.com/in/sousabelcher)
+---
 
 ## Informações Adicionais
 * Programando com Plataforma Low Code OutSystems [Ver Certificado](https://media.licdn.com/dms/image/C4D22AQFqMOdfLpv04A/feedshare-shrink_1280/0/1595111851870?e=1698278400&v=beta&t=F8-Y5nraI7_kgEth6IFuoIbKBUW8Xbjtnbrj3CMvCAA)
