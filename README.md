@@ -89,6 +89,9 @@ Consultor de afiliados - Freelancer
 
 ### Banco de Dados
 * SQL.
+* NoSQL
+* MANGO DB
+* REDIS
 * Power BI
 
 ### Sistemas de controle de versão
