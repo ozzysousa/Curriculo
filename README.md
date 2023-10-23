@@ -22,8 +22,8 @@ Conclusão parcial em 2016 <br>
 ## Educação Continuada
 * [Digital Innovation One (DIO)](https://www.dio.me/users/sousabelcher) <br>
 Bootcamp Santander <br>
-Previsão de Conclusão: Outubro de 2023 <br>
-  * Estou participando do Bootcamp Santander, programado para concluir em outubro de 2023. Este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Python, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
+Concluído em Outubro de 2023 <br>
+  * Participei do Bootcamp Santander, este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Java, Angular, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
 [_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
 [_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
 ---
@@ -53,13 +53,13 @@ Consultor de afiliados - Freelancer
 
 ### Gerais
 * Lógica de Programação.
+* AI com Cheat GPT 3.5
 * Fundamentos do Azure
 * Cloud Computing & Serverless
 ---
 
 ### Sistemas Operacionais
 * Windows
-* Android
 
 ### Front-end
 * HTML.
@@ -74,18 +74,18 @@ Consultor de afiliados - Freelancer
 * Bootstrap.
 
 ### Frameworks Front-end
-* Angular (em andamento na DIO)
+* Angular
 
 ### Linguagens de Programação
 * Java.
-* Node.js (em andamento na DIO)
+* Node.js
 * R.
 * Python.
 * TypeScript 
 * JavaScript.
 
 ### Frameworks Back-end
-* Spring Boot (em andamento na DIO)
+* Spring Boot
 
 ### Banco de Dados
 * SQL.
@@ -97,7 +97,6 @@ Consultor de afiliados - Freelancer
 ### Sistemas de controle de versão
 * Git.
 * Git Hub.
-* Git Bash.
 ---
 
 ## Projetos
