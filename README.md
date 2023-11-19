@@ -5,7 +5,7 @@ Desenvolvedor Web - Junior
 :iphone:   [_(61) 99256 - 7936_](https://api.whatsapp.com/send?phone=551992567936&)<br> 
 :envelope:  sousabelcher@gmail.com
 
-Meu nome é Oziel Sousa, sou um profissional de vendas em transição de carreira para o mundo do desenvolvimento web. Tenho uma paixão ardente por Python e Material Design, com um forte interesse em JavaScript e Análise de Dados. Nas horas vagas, adoro passar tempo de qualidade com meus filhos e estou sempre dedicado a aprimorar minhas habilidades na área de desenvolvimento.
+Profissional de vendas em transição de carreira para o desenvolvimento web, trazendo uma paixão fervorosa por Python e Material Design, além de um forte interesse em JavaScript e Análise de Dados. Fora do universo técnico, minha dedicação se estende ao tempo de qualidade com meus filhos, e estou constantemente comprometido com o aprimoramento das minhas habilidades no campo do desenvolvimento.
 |----------------|
 ## Formação
 * [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
@@ -39,7 +39,8 @@ Vendas de produtos Têxteis (panos de prato e chão):
 **Deriv.com** -
 Consultor de afiliados - Freelancer
   * Atuava em uma plataforma de negociação online, oferecendo direcionamento e orientação valiosa a novos traders. .
-  * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders.
+  * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders<br>
+[_Veja o site da Corretora_](https://bit.ly/derivapp)
 ---
 
 ## Conhecimentos
@@ -112,16 +113,15 @@ Consultor de afiliados - Freelancer
 * AI no Azure (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQG45wCvPGOolA/feedshare-shrink_800/0/1694141603655?e=1698278400&v=beta&t=HGQTSFzidObdx17uo4sTT-n6BVjtZFEKSsArWFerXNw)
 ---
 
+## Eventos de Tecnologia e Informação - TI
+* 5ª Mostra de Tecnologia Brasília + TI [Ver Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_brasiliati-networking-aprendizado-activity-7131830168750309376-CjqZ?utm_source=share&utm_medium=member_desktop)
+
+<br><br>
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/sousabelcher)
 *  [Twitter](https://twitter.com/sousabelcher)
 *  [Linkedin](https://www.linkedin.com/in/sousabelcher)
 ---
-
-## Informações Adicionais
-* Programando com Plataforma Low Code OutSystems [Ver Certificado](https://media.licdn.com/dms/image/C4D22AQFqMOdfLpv04A/feedshare-shrink_1280/0/1595111851870?e=1698278400&v=beta&t=F8-Y5nraI7_kgEth6IFuoIbKBUW8Xbjtnbrj3CMvCAA)
-
-<br><br>
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
