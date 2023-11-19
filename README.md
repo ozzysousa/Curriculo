@@ -11,7 +11,8 @@ Profissional de vendas em transição de carreira para o desenvolvimento web, tr
 * [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
 Análise e desenvolvimento de Sistemas<br>
 Conclusão em 2025 <br>
-  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados, e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.
+  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados, e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
+👉[Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
 
 * [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
 Superior Tecnológico em Marketing <br>
