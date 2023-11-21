@@ -115,7 +115,10 @@ Consultor de afiliados - Freelancer
 ---
 
 ## Eventos de Tecnologia e Informação - TI
-* 5ª Mostra de Tecnologia Brasília + TI [Ver Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_brasiliati-networking-aprendizado-activity-7131830168750309376-CjqZ?utm_source=share&utm_medium=member_desktop)
+* Honrado por participar da 5ª Mostra Brasília + TI, onde mergulhei nas inovações tecnológicas e conectei-me com líderes visionários. Este foi o meu primeiro evento e ampliou meu horizonte no universo da tecnologia. <br>
+[Ver Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_brasiliati-networking-aprendizado-activity-7131830168750309376-CjqZ?utm_source=share&utm_medium=member_desktop)
+* Participei do Seminário CCTI, CCOM e CE na Câmara dos Deputados, imerso nas discussões sobre Conectividade Transformadora. Uma experiência enriquecedora, contribuindo para meu entendimento sobre o papel crucial da tecnologia na transformação do Brasil. <br>
+[Em breve tú verás o certificado!]()
 
 <br><br>
 ## Redes Sociais
