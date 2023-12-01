@@ -13,7 +13,7 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 **Vendedor Autônomo** -
 Vendas de produtos Têxteis (panos de prato e chão):
   * Com abordagem direta, faço essas vendas diretamente para os clientes que abordo nas localidades de Brasília. 
-  * Em transição de carreira, uso o meios das vendas para fazer novos cursos e gerar oportunidades na área de desenvolvimento web e programação.
+  * Uso a forma das vendas para investir em novos cursos e gerar oportunidades na área de desenvolvimento web e programação.
 
 * (2015 -  2016) <br>
 **Deriv.com** -
@@ -25,7 +25,7 @@ Consultor de afiliados - Freelancer
 ## Formação
 * [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
 Análise e desenvolvimento de Sistemas<br>
-Conclusão em 2025 <br>
+Conclusão em 08/2025 <br>
   * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados, e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
 👉[Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
 
@@ -42,6 +42,14 @@ Concluído em Outubro de 2023 <br>
   * Participei do Bootcamp Santander, este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Java, Angular, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
 [_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
 [_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
+<br>
+
+* [Imersão Dev 7° Edição](https://www.alura.com.br/imersao)<br>
+Alura <br>
+Concluído em 11/2023 <br>
+  * Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilidades e construindo projetos práticos. Adquiri conhecimentos relevantes para o desenvolvimento de software, reforçando meu perfil técnico e prático na área de Programação.
+<br>[Saiba mais sobre Imersão da Alura](https://cursos.alura.com.br/immersion/certificate/user/4643113)
+
 ---
 
 ## Habilidades de Programação:
@@ -117,7 +125,6 @@ Concluído em Outubro de 2023 <br>
 * Participante do BBDigital Week: Exploração intensiva de tecnologia, inovação e networking no Ulysses Guimarães. Adquiri insights valiosos e conexões influentes para impulsionar meu desenvolvimento profissional.
 [Aguardando o Certificado...]()
 <br>
----
 
 ## Idioma
 * Inglês Nível B1, compreendo as questões principais, entendo, escrevo e falo frases simples do idioma.
