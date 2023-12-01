@@ -1,33 +1,12 @@
 # Oziel Sousa
-Desenvolvedor Web - Junior
+Desenvolvedor FrontEnd
 
 :house:    [Luziânia - Goias/GO](https://maps.app.goo.gl/eoufezGsvUSJwgeu7) <br>
 :iphone:   [_(61) 99256 - 7936_](https://api.whatsapp.com/send?phone=551992567936&)<br> 
 :envelope:  sousabelcher@gmail.com
 
-Profissional de vendas em transição de carreira para o desenvolvimento web, trazendo uma paixão fervorosa por Python e Material Design, além de um forte interesse em JavaScript e Análise de Dados. Fora do universo técnico, minha dedicação se estende ao tempo de qualidade com meus filhos, e estou constantemente comprometido com o aprimoramento das minhas habilidades no campo do desenvolvimento.
+Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionais que elevam a experiência do usuário. Com base em HTML, CSS e JavaScript, estou imerso no universo da programação, explorando também o Material Design e com um forte interesse em Python e Análise de Dados.
 |----------------|
-## Formação
-* [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
-Análise e desenvolvimento de Sistemas<br>
-Conclusão em 2025 <br>
-  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados, e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
-👉[Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
-
-* [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
-Superior Tecnológico em Marketing <br>
-Conclusão parcial em 2016 <br>
-  * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding. 
----
-
-## Educação Continuada
-* [Digital Innovation One (DIO)](https://www.dio.me/users/sousabelcher) <br>
-Bootcamp Santander <br>
-Concluído em Outubro de 2023 <br>
-  * Participei do Bootcamp Santander, este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Java, Angular, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
-[_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
-[_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
----
 
 ## Experência Profissional
 * (2020 -  Atual) <br>
@@ -43,25 +22,37 @@ Consultor de afiliados - Freelancer
   * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders<br>
 [_Veja o site da Corretora_](https://bit.ly/derivapp)
 ---
+## Formação
+* [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
+Análise e desenvolvimento de Sistemas<br>
+Conclusão em 2025 <br>
+  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados, e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
+👉[Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
 
-## Conhecimentos
-### Idioma
-* Inglês Nível B1, compreendo as questões principais, entendo, escrevo e falo frases simples do idioma.
-  
-[_Clique aqui para ver meus progessos no DUOLINGO_](https://media.licdn.com/dms/image/D4D22AQFbf0DdR9HAyQ/feedshare-shrink_800/0/1690831380456?e=1698278400&v=beta&t=dzrCzWvBJZITtCUn0G9umhXXALlb8i-e57LAe4TuQWA)<br>
-[_Clique aqui para ver meus progessos ENGLISH NO CODE._](https://media.licdn.com/dms/image/C4D22AQG-AU9ojNV90g/feedshare-shrink_800/0/1663295820148?e=1698278400&v=beta&t=Jw_95fP5ePFFVIESmMKrfhcoLjPjXx-HEX7ZvXnmmcY)<br>
-[_Clique aqui para ver meus progessos BY ELSA SPEAK._](https://media.licdn.com/dms/image/D4D22AQFwfr_pClQfMg/feedshare-shrink_800/0/1684770912977?e=1698278400&v=beta&t=XnAzlNUcEF5fQBrPyKo5aVOlyhsA0lnmVci4-iM7LDM)<br>
+* [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
+Superior Tecnológico em Marketing <br>
+Conclusão parcial em 2016 <br>
+  * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding. 
 ---
 
+## Bootcamps
+* [Digital Innovation One (DIO)](https://www.dio.me/users/sousabelcher) <br>
+Bootcamp Santander <br>
+Concluído em Outubro de 2023 <br>
+  * Participei do Bootcamp Santander, este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Java, Angular, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.<br>
+[_Clique aqui para conhecer o programa._](https://www.dio.me/bootcamp/santander-fullstack-developer)<br>
+[_Clique aqui para ver as minhas certificações._](https://www.dio.me/users/sousabelcher)
+---
+
+## Habilidades de Programação:
 ### Gerais
 * Lógica de Programação.
-* AI com Cheat GPT 3.5
-* Fundamentos do Azure
-* Cloud Computing & Serverless
+* Desenvolvimento de software.
+* Segurança da informação. 
+* AI com Cheat GPT 3.5. 
+* Fundamentos do Azure. 
+* Cloud Computing & Serverless. 
 ---
-
-### Sistemas Operacionais
-* Windows
 
 ### Front-end
 * HTML.
@@ -69,6 +60,8 @@ Consultor de afiliados - Freelancer
 * CSS (Design Responsivo).
   * SASS
   * Arquitetura BEM
+* JavaScript
+  * DOM (Document Object Model)
 
 ### UI Kits
 * Shoelace
@@ -77,28 +70,30 @@ Consultor de afiliados - Freelancer
 
 ### Frameworks Front-end
 * Angular
-
-### Linguagens de Programação
-* Java.
-* Node.js
-* R.
-* Python.
-* TypeScript 
-* JavaScript.
+* React.Js
+* Vue.js
 
 ### Frameworks Back-end
 * Spring Boot
+* Node.js
 
+### Linguagens de Programação
+* Java.
+* Python.
+* R. 
+* TypeScript. 
+* JavaScript.
+  
 ### Banco de Dados
-* SQL.
+* SQL
 * NoSQL
 * MANGO DB
 * REDIS
 * Power BI
 
 ### Sistemas de controle de versão
-* Git.
-* Git Hub.
+* Git Lab
+* Git Hub
 ---
 
 ## Projetos
@@ -118,16 +113,25 @@ Consultor de afiliados - Freelancer
 * Honrado por participar da 5ª Mostra Brasília + TI, onde mergulhei nas inovações tecnológicas e conectei-me com líderes visionários. Este foi o meu primeiro evento e ampliou meu horizonte no universo da tecnologia. <br>
 [Ver Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_brasiliati-networking-aprendizado-activity-7131830168750309376-CjqZ?utm_source=share&utm_medium=member_desktop)
 * Participei do Seminário CCTI, CCOM e CE na Câmara dos Deputados, imerso nas discussões sobre Conectividade Transformadora. Uma experiência enriquecedora, contribuindo para meu entendimento sobre o papel crucial da tecnologia na transformação do Brasil. <br>
-[Em breve tú verás o certificado!]()
+[Aguardando o Certificado...]()
+* Participante do BBDigital Week: Exploração intensiva de tecnologia, inovação e networking no Ulysses Guimarães. Adquiri insights valiosos e conexões influentes para impulsionar meu desenvolvimento profissional.
+[Aguardando o Certificado...]()
+<br>
+---
 
-<br><br>
+## Idioma
+* Inglês Nível B1, compreendo as questões principais, entendo, escrevo e falo frases simples do idioma.
+  
+[_Clique aqui para ver meus progessos no DUOLINGO_](https://media.licdn.com/dms/image/D4D22AQFbf0DdR9HAyQ/feedshare-shrink_800/0/1690831380456?e=1698278400&v=beta&t=dzrCzWvBJZITtCUn0G9umhXXALlb8i-e57LAe4TuQWA)<br>
+[_Clique aqui para ver meus progessos ENGLISH NO CODE._](https://media.licdn.com/dms/image/C4D22AQG-AU9ojNV90g/feedshare-shrink_800/0/1663295820148?e=1698278400&v=beta&t=Jw_95fP5ePFFVIESmMKrfhcoLjPjXx-HEX7ZvXnmmcY)<br>
+[_Clique aqui para ver meus progessos BY ELSA SPEAK._](https://media.licdn.com/dms/image/D4D22AQFwfr_pClQfMg/feedshare-shrink_800/0/1684770912977?e=1698278400&v=beta&t=XnAzlNUcEF5fQBrPyKo5aVOlyhsA0lnmVci4-iM7LDM)<br>
+---
+
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/sousabelcher)
 *  [Twitter](https://twitter.com/sousabelcher)
-*  [Linkedin](https://www.linkedin.com/in/sousabelcher)
+*  [Linkedin](https://www.linkedin.com/in/ozzysousa)
 ---
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
-
-Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo). Confere o dele lá também! :wink:
