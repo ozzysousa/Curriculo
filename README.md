@@ -6,7 +6,6 @@ Desenvolvedor FrontEnd
 :envelope: sousabelcher@gmail.com
 
 Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionais que elevam a experiência do usuário. Com base em HTML, CSS e JavaScript, estou imerso no universo da programação, explorando também o Material Design e com um forte interesse em Python e Análise de Dados.
-
 |----------------|
 
 ## Experiência Profissional
@@ -43,64 +42,188 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 
 <summary><h2><strong>Habilidades de Programação:</strong></h2></summary>
 
-### Gerais
-* Lógica de Programação.
-* Desenvolvimento de software.
-* Segurança da informação. 
-* AI com Cheat GPT 3.5. 
-* Fundamentos do Azure. 
-* Cloud Computing & Serverless. 
----
+<details>
 
-### Front-end
-* HTML.
-  * Markdown.
-* CSS (Design Responsivo).
-  * SASS
-  * Arquitetura BEM
-* JavaScript
-  * DOM (Document Object Model)
+<summary><h3><strong>Gerais</strong></h3></summary>
 
-### UI Kits
-* Shoelace
-* Materialize.
-* Bootstrap.
-
-### Frameworks Front-end
-* Angular
-* React.Js
-* Vue.js
-
-### Frameworks Back-end
-* Spring Boot
-* Node.js
-
-### Linguagens de Programação
-* Java.
-* Python.
-* R. 
-* TypeScript. 
-* JavaScript.
-  
-### Banco de Dados
-* SQL
-* NoSQL
-* MANGO DB
-* REDIS
-* Power BI
-
-### Sistemas de controle de versão
-* Git Lab
-* Git Hub
----
+<table>
+  <tr>
+    <td>Lógica de Programação.</td>
+  </tr>
+  <tr>
+    <td>Desenvolvimento de software.</td>
+  </tr>
+  <tr>
+    <td>Segurança da informação.</td>
+  </tr>
+  <tr>
+    <td>AI com Cheat GPT 3.5.</td>
+  </tr>
+  <tr>
+    <td>Fundamentos do Azure.</td>
+  </tr>
+  <tr>
+    <td>Cloud Computing & Serverless.</td>
+  </tr>
+</table>
 
 </details>
 
 <details>
 
-<summary><h2><strong>Bootcamps</strong></h2></summary>
+<summary><h3><strong>Front-end</strong></h3></summary>
 
-### Digital Innovation One (DIO)
+<table>
+  <tr>
+    <td>HTML.</td>
+  </tr>
+  <tr>
+    <td>Markdown.</td>
+  </tr>
+  <tr>
+    <td>CSS (Design Responsivo).</td>
+  </tr>
+  <tr>
+    <td>SASS.</td>
+  </tr>
+  <tr>
+    <td>Arquitetura BEM.</td>
+  </tr>
+  <tr>
+    <td>JavaScript.</td>
+  </tr>
+  <tr>
+    <td>DOM (Document Object Model).</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+
+<summary><h3><strong>UI Kits</strong></h3></summary>
+
+<table>
+  <tr>
+    <td>Shoelace.</td>
+  </tr>
+  <tr>
+    <td>Materialize.</td>
+  </tr>
+  <tr>
+    <td>Bootstrap.</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+
+<summary><h3><strong>Frameworks Front-end</strong></h3></summary>
+
+<table>
+  <tr>
+    <td>Angular.</td>
+  </tr>
+  <tr>
+    <td>React.Js.</td>
+  </tr>
+  <tr>
+    <td>Vue.js.</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+
+<summary><h3><strong>Frameworks Back-end</strong></h3></summary>
+
+<table>
+  <tr>
+    <td>Spring Boot.</td>
+  </tr>
+  <tr>
+    <td>Node.js.</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+
+<summary><h3><strong>Linguagens de Programação</strong></h3></summary>
+
+<table>
+  <tr>
+    <td>Java.</td>
+  </tr>
+  <tr>
+    <td>Python.</td>
+  </tr>
+  <tr>
+    <td>R.</td>
+  </tr>
+  <tr>
+    <td>TypeScript.</td>
+  </tr>
+  <tr>
+    <td>JavaScript.</td>
+  </tr>
+</table>
+
+</details>
+  
+<details>
+
+<summary><h3><strong>Banco de Dados</strong></h3></summary>
+
+<table>
+  <tr>
+    <td>SQL.</td>
+  </tr>
+  <tr>
+    <td>NoSQL.</td>
+  </tr>
+  <tr>
+    <td>MANGO DB.</td>
+  </tr>
+  <tr>
+    <td>REDIS.</td>
+  </tr>
+  <tr>
+    <td>Power BI.</td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+
+<summary><h3><strong>Sistemas de controle de versão</strong></h3></summary>
+
+<table>
+  <tr>
+    <td>Git Lab.</td>
+  </tr>
+  <tr>
+    <td>Git Hub.</td>
+  </tr>
+</table>
+
+</details>
+
+</details>
+
+<hr>
+
+<details>
+
+<summary><h2><strong>Bootcamps e Imersões</strong></h2></summary>
+
+<details>
+
+<summary><h3 style="text-decoration: underline;"><strong>Digital Innovation One (DIO)</strong></h3></summary>
 
 **Bootcamp Santander**  
 Concluído em Outubro de 2023  
@@ -108,7 +231,11 @@ Participei do Bootcamp Santander, este programa representa uma oportunidade sign
 [Clique aqui para conhecer o programa.](link_do_programa)  
 [Clique aqui para ver as minhas certificações.](link_das_certificacoes)
 
-### Alura
+</details>
+
+<details>
+
+<summary><h3 style="text-decoration: underline;"><strong>Alura</strong></h3></summary>
 
 **Imersão Dev 7° Edição**  
 Concluído em 11/2023  
@@ -116,7 +243,11 @@ Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilid
 [Saiba mais sobre Imersão da Alura](link_da_imersao)
 
 </details>
+
+</details>
+
 <hr>
+
 
 <details>
 
@@ -131,7 +262,7 @@ Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilid
 
 <details>
 
-<summary><h2><strong>Participação em Eventos de Tecnologia - TI</strong></h2></summary>
+<summary><h2><strong>Participação em Eventos de Tecnologia</strong></h2></summary>
 
 * Honrado por participar da 5ª Mostra Brasília + TI, onde mergulhei nas inovações tecnológicas e conectei-me com líderes visionários. Este foi o meu primeiro evento e ampliou meu horizonte no universo da tecnologia. <br>
 [Ver Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_brasiliati-networking-aprendizado-activity-7131830168750309376-CjqZ?utm_source=share&utm_medium=member_desktop)
@@ -154,14 +285,41 @@ Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilid
 
 <summary><h2><strong>Habilidades Interpessoais</strong></h2></summary>
 
-* **Comunicação:** Habilidade de expressar ideias de forma clara e eficaz, tanto verbalmente quanto por escrito.
-* **Trabalho em Equipe:** Capacidade de colaborar e trabalhar harmoniosamente em grupos para atingir objetivos comuns.
-* **Resolução de Conflitos:** Habilidade de lidar com conflitos de maneira construtiva e encontrar soluções para problemas interpessoais.
-* **Empatia:** Capacidade de compreender e compartilhar os sentimentos dos outros, demonstrando compaixão e consideração.
-* **Criatividade:** Capacidade de pensar de forma inovadora, encontrar soluções criativas para problemas e gerar novas ideias.
-* **Adaptabilidade:** Flexibilidade para se ajustar a mudanças, aprender rapidamente e lidar bem com situações imprevistas.
-* **Liderança:** Habilidade de influenciar e motivar outros, assumir a liderança e tomar decisões eficazes.
-* **Gestão do Tempo:** Capacidade de organizar e priorizar tarefas de maneira eficiente para otimizar a produtividade.
+<table>
+  <tr>
+    <td><strong style="color: blue;">Comunicação:</strong></td>
+    <td>Habilidade de expressar ideias de forma clara e eficaz, tanto verbalmente quanto por escrito.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Trabalho em Equipe:</strong></td>
+    <td>Capacidade de colaborar e trabalhar harmoniosamente em grupos para atingir objetivos comuns.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Resolução de Conflitos:</strong></td>
+    <td>Habilidade de lidar com conflitos de maneira construtiva e encontrar soluções para problemas interpessoais.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Empatia:</strong></td>
+    <td>Capacidade de compreender e compartilhar os sentimentos dos outros, demonstrando compaixão e consideração.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Criatividade:</strong></td>
+    <td>Capacidade de pensar de forma inovadora, encontrar soluções criativas para problemas e gerar novas ideias.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Adaptabilidade:</strong></td>
+    <td>Flexibilidade para se ajustar a mudanças, aprender rapidamente e lidar bem com situações imprevistas.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Liderança:</strong></td>
+    <td>Habilidade de influenciar e motivar outros, assumir a liderança e tomar decisões eficazes.</td>
+  </tr>
+  <tr>
+    <td><strong style="color: blue;">Gestão do Tempo:</strong></td>
+    <td>Capacidade de organizar e priorizar tarefas de maneira eficiente para otimizar a produtividade.</td>
+  </tr>
+</table>
+
 
 </details>
 <hr>
@@ -199,5 +357,11 @@ Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilid
 ---
 
 
-## Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
+## Me Ajude!
+
+Encontrou algum erro nas informações? Sentiu falta de algo? Fique à vontade para abrir uma issue!
+
+[![GitHub Issues](https://img.shields.io/github/issues/ozzysousa/seu-repositorio)](https://github.com/ozzysousa/seu-repositorio/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ozzysousa/seu-repositorio)](https://github.com/ozzysousa/seu-repositorio/pulls)
+
+Sua contribuição é valiosa! Juntos podemos tornar este currículo ainda melhor.
