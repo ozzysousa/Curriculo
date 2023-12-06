@@ -19,7 +19,7 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
   **Deriv.com** - Consultor de afiliados - Freelancer
   * Atuava em uma plataforma de negociação online, oferecendo direcionamento e orientação valiosa a novos traders.
   * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders
-  [_Veja o site da Corretora_](https://bit.ly/derivapp)
+  [Veja o site da Corretora](https://bit.ly/derivapp)
 
 ---
 
@@ -28,8 +28,8 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 * [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
   Análise e desenvolvimento de Sistemas <br>
   Conclusão em 08/2025 <br>
-  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.
-  [Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
+  * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
+[Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
 
 * [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
   Superior Tecnológico em Marketing <br>
@@ -40,178 +40,18 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 
 <details>
 
-<summary><h2><strong>Habilidades de Programação:</strong></h2></summary>
+<summary><h2><strong>Habilidades de Programação</strong></h2></summary>
 
-<details>
 
-<summary><h3><strong>Gerais</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>Lógica de Programação.</td>
-  </tr>
-  <tr>
-    <td>Desenvolvimento de software.</td>
-  </tr>
-  <tr>
-    <td>Segurança da informação.</td>
-  </tr>
-  <tr>
-    <td>AI com Cheat GPT 3.5.</td>
-  </tr>
-  <tr>
-    <td>Fundamentos do Azure.</td>
-  </tr>
-  <tr>
-    <td>Cloud Computing & Serverless.</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-
-<summary><h3><strong>Front-end</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>HTML.</td>
-  </tr>
-  <tr>
-    <td>Markdown.</td>
-  </tr>
-  <tr>
-    <td>CSS (Design Responsivo).</td>
-  </tr>
-  <tr>
-    <td>SASS.</td>
-  </tr>
-  <tr>
-    <td>Arquitetura BEM.</td>
-  </tr>
-  <tr>
-    <td>JavaScript.</td>
-  </tr>
-  <tr>
-    <td>DOM (Document Object Model).</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-
-<summary><h3><strong>UI Kits</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>Shoelace.</td>
-  </tr>
-  <tr>
-    <td>Materialize.</td>
-  </tr>
-  <tr>
-    <td>Bootstrap.</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-
-<summary><h3><strong>Frameworks Front-end</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>Angular.</td>
-  </tr>
-  <tr>
-    <td>React.Js.</td>
-  </tr>
-  <tr>
-    <td>Vue.js.</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-
-<summary><h3><strong>Frameworks Back-end</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>Spring Boot.</td>
-  </tr>
-  <tr>
-    <td>Node.js.</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-
-<summary><h3><strong>Linguagens de Programação</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>Java.</td>
-  </tr>
-  <tr>
-    <td>Python.</td>
-  </tr>
-  <tr>
-    <td>R.</td>
-  </tr>
-  <tr>
-    <td>TypeScript.</td>
-  </tr>
-  <tr>
-    <td>JavaScript.</td>
-  </tr>
-</table>
-
-</details>
-  
-<details>
-
-<summary><h3><strong>Banco de Dados</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>SQL.</td>
-  </tr>
-  <tr>
-    <td>NoSQL.</td>
-  </tr>
-  <tr>
-    <td>MANGO DB.</td>
-  </tr>
-  <tr>
-    <td>REDIS.</td>
-  </tr>
-  <tr>
-    <td>Power BI.</td>
-  </tr>
-</table>
-
-</details>
-
-<details>
-
-<summary><h3><strong>Sistemas de controle de versão</strong></h3></summary>
-
-<table>
-  <tr>
-    <td>Git Lab.</td>
-  </tr>
-  <tr>
-    <td>Git Hub.</td>
-  </tr>
-</table>
-
-</details>
+| Gerais                        | Front-end                       | UI Kits                        | Frameworks Front-end           | Frameworks Back-end            | Linguagens de Programação        | Banco de Dados                  | Sistemas de Controle de Versão |
+| ----------------------------- | ------------------------------- | ------------------------------- | ------------------------------ | ------------------------------ | -------------------------------- | ------------------------------- | ------------------------------ |
+| Lógica de Programação.        | HTML.                           | Shoelace.                      | Angular.                      | Spring Boot.                   | Java.                            | SQL.                            | Git Lab.                        |
+| Desenvolvimento de software.  | Markdown.                       | Materialize.                   | React.Js.                     | Node.js.                       | Python.                          | NoSQL.                          | Git Hub.                        |
+| Segurança da informação.      | CSS (Design Responsivo).         | Bootstrap.                     | Vue.js.                       |                                | R.                               | MANGO DB.                       |                                |
+| AI com Cheat GPT 3.5.         | SASS.                           |                               |                               |                                | TypeScript.                      | REDIS.                          |                                |
+| Fundamentos do Azure.         | Arquitetura BEM.                 |                               |                               |                                | JavaScript.                      | Power BI.                       |                                |
+| Cloud Computing & Serverless. | JavaScript.                     |                               |                               |                                |                                  |                                 |                                |
+|                               | DOM (Document Object Model).    |                               |                               |                                |                                  |                                 |                                |
 
 </details>
 
@@ -223,24 +63,37 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 
 <details>
 
-<summary><h3 style="text-decoration: underline;"><strong>Digital Innovation One (DIO)</strong></h3></summary>
+<summary><h3><strong>Digital Innovation One (DIO)</strong></h3></summary>
 
 **Bootcamp Santander**  
 Concluído em Outubro de 2023  
 Participei do Bootcamp Santander, este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Java, Angular, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.  
-[Clique aqui para conhecer o programa.](link_do_programa)  
-[Clique aqui para ver as minhas certificações.](link_das_certificacoes)
+[Clique aqui para conhecer o programa.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular?tab=about)  
+[Clique aqui para ver as minhas certificações.](https://www.dio.me/certificate/F17AAF4F/share)
 
 </details>
 
 <details>
 
-<summary><h3 style="text-decoration: underline;"><strong>Alura</strong></h3></summary>
+<summary><h3><strong>Alura</strong></h3></summary>
 
 **Imersão Dev 7° Edição**  
 Concluído em 11/2023  
 Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilidades e construindo projetos práticos. Adquiri conhecimentos relevantes para o desenvolvimento de software, reforçando meu perfil técnico e prático na área de Programação.  
-[Saiba mais sobre Imersão da Alura](link_da_imersao)
+[Saiba mais sobre Imersão da Alura](https://imersao.dev/)<br>
+[Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_alura-imersaodev-desenvolvimentoweb-activity-7135381212876931072-xVX0?utm_source=share&utm_medium=member_desktop)
+
+</details>
+
+<details>
+ 
+<summary><h3><strong>Febraban</strong></h3></summary>
+ 
+**Imersão Cyber Academy**  
+Conclusão Prevista em 12/2023<br>
+Estou participando do Cyber Academy promovido pelo Laboratório de Segurança Cibernética da Febraban. Este projeto de imersão oferece 40 horas de conteúdo ao vivo e gratuito, com emissão de certificado, ao longo de 10 dias. A proposta é explorar, de forma teórica e prática, conceitos essenciais na área de segurança cibernética. Aguardando ansiosamente a oportunidade de aprofundar meu conhecimento nesse campo dinâmico.<br>
+[Conheça mais sobre o Cyber Academy](https://portal.febraban.org.br/noticia/4016/pt-br/)<br>
+[Certificado de Participação]()
 
 </details>
 
@@ -270,10 +123,10 @@ Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilid
 * Participei do Seminário CCTI, CCOM e CE na Câmara dos Deputados, imerso nas discussões sobre Conectividade Transformadora. Uma experiência enriquecedora, contribuindo para meu entendimento sobre o papel crucial da tecnologia na transformação do Brasil. <br>
 [Aguardando o Certificado...]()
   
-* Participante do BBDigital Week: Exploração intensiva de tecnologia, inovação e networking no Ulysses Guimarães. Adquiri insights valiosos e conexões influentes para impulsionar meu desenvolvimento profissional.
+* Participante do BBDigital Week: Exploração intensiva de tecnologia, inovação e networking no Ulysses Guimarães. Adquiri insights valiosos e conexões influentes para impulsionar meu desenvolvimento profissional.<br>
 [Aguardando o Certificado...]()
 
-* Participação destacada na Inova Show, evento que explorou inovação, tecnologia e networking. Envolvimento em palestras, shows e oficinas, contribuindo para uma visão abrangente do cenário atual.
+* Participação destacada na Inova Show, evento que explorou inovação, tecnologia e networking. Envolvimento em palestras, shows e oficinas, contribuindo para uma visão abrangente do cenário atual.<br>
 [Aguardando o Certificado...]()
 <br>
 
