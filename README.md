@@ -130,8 +130,8 @@ Estou participando do Cyber Academy promovido pelo Laboratório de Segurança Ci
 [Aguardando o Certificado...]()
 <br>
 
-* Participação destacada na Inova Show, evento que explorou inovação, tecnologia e networking. Envolvimento em palestras, shows e oficinas, contribuindo para uma visão abrangente do cenário atual.<br>
-[Aguardando o Certificado...](CERTIFICADOS/Webnário - Tecnologias Aplicadas a Educação..pdf)
+* Participei ativamente do webnário sobre Tecnologias Aplicadas à Educação, promovido pela Associação Brasileira de Comunicação Empresarial (ABERJ), explorando inovações e estratégias para aprimorar o ensino. Discussões enriquecedoras que ampliaram meu entendimento sobre a integração efetiva de tecnologia no ambiente educacional.<br>
+[Ver Certificado de Participação](https://github.com/ozzysousa/Curriculo/blob/master/CERTIFICADOS/Webn%C3%A1rio%20-%20Tecnologias%20Aplicadas%20a%20Educa%C3%A7%C3%A3o..pdf)
 <br>
 
 
