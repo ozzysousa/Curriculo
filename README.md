@@ -130,6 +130,10 @@ Estou participando do Cyber Academy promovido pelo Laboratório de Segurança Ci
 [Aguardando o Certificado...]()
 <br>
 
+* Participação destacada na Inova Show, evento que explorou inovação, tecnologia e networking. Envolvimento em palestras, shows e oficinas, contribuindo para uma visão abrangente do cenário atual.<br>
+[Aguardando o Certificado...](CERTIFICADOS/Webnário - Tecnologias Aplicadas a Educação..pdf)
+<br>
+
 
 </details>
 <hr>
