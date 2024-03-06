@@ -90,10 +90,21 @@ Participei da Imersão Dev 7ª Edição na plataforma Alura, aprimorando habilid
 <summary><h3><strong>Febraban</strong></h3></summary>
  
 **Imersão Cyber Academy**  
-Conclusão Prevista em 12/2023<br>
+Concluído em 12/2023<br>
 Estou participando do Cyber Academy promovido pelo Laboratório de Segurança Cibernética da Febraban. Este projeto de imersão oferece 40 horas de conteúdo ao vivo e gratuito, com emissão de certificado, ao longo de 10 dias. A proposta é explorar, de forma teórica e prática, conceitos essenciais na área de segurança cibernética. Aguardando ansiosamente a oportunidade de aprofundar meu conhecimento nesse campo dinâmico.<br>
 [Conheça mais sobre o Cyber Academy](https://portal.febraban.org.br/noticia/4016/pt-br/)<br>
-[Certificado de Participação]()
+[Certificado de Participação](https://media.licdn.com/dms/image/D4D22AQGwaubhfSnFiw/feedshare-shrink_2048_1536/0/1703691898898?e=1712793600&v=beta&t=12WWfYTL0xgqQDajetUCO-x741xyfp4GJT_UgFfvVBY)
+
+</details>
+
+<details>
+ 
+<summary><h3><strong>Hasgtag Treinamentos</strong></h3></summary>
+ 
+**Intensivão de Power BI**  
+Concluído em 02/2024<br>
+Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em análise e visualização de dados utilizando a plataforma Power BI. Aprofundei meu conhecimento na criação de relatórios dinâmicos e interativos, assim como na construção de dashboards eficazes para apresentação de informações gerenciais. Além disso, desenvolvi competências em manipulação de dados, modelagem e transformação de dados utilizando as ferramentas e recursos avançados do Power BI. Essa experiência me proporcionou uma base sólida para aplicar técnicas avançadas de análise de dados em diversos contextos profissionais.<br>
+[Certificado de Participação](https://dlp.hashtagtreinamentos.com/certificado/download?ncf=Oziel%20Ribeiro%20de%20Sousa&necf=Intensiv%C3%A3o+de+Power+BI&dtcf=22%2F02%2F24&hcf=8)
 
 </details>
 
