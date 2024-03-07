@@ -25,7 +25,7 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 
 ## Formação
 
-* [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) <br>
+* [Universidade Estácio de Sá](https://estacio.br/) <br>
   Análise e desenvolvimento de Sistemas <br>
   Conclusão em 08/2025 <br>
   * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
@@ -120,6 +120,7 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 * [Pokedex](https://lnkd.in/dXA-sWGW)
 * [Curriculo pelo GIThub](https://lnkd.in/diFPjD2A)
 * [Dio-lab-open-source](https://github.com/ozzysousa/dio-lab-open-source)
+* [DecriptorText](https://github.com/ozzysousa/Decriptor-text)
 
 </details>
 <hr>
