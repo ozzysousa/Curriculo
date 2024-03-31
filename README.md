@@ -135,7 +135,7 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 [Aguardando o Certificado...])
   
 * Participante do BBDigital Week: Exploração intensiva de tecnologia, inovação e networking no Ulysses Guimarães. Adquiri insights valiosos e conexões influentes para impulsionar meu desenvolvimento profissional.<br>
-[Aguardando o Certificado...])
+[Aguardando o Certificado...](https://www.linkedin.com/posts/ozzysousa_bbdigitalweek-certificado-inova%C3%A7%C3%A3o-activity-7151736311895203840-wE9s)
 
 * Participação destacada na Inova Show, evento que explorou inovação, tecnologia e networking. Envolvimento em palestras, shows e oficinas, contribuindo para uma visão abrangente do cenário atual.<br>
 [Aguardando o Certificado...])
