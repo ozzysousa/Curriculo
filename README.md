@@ -132,13 +132,13 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 [Ver Certificado de Participação](https://www.linkedin.com/posts/ozzysousa_brasiliati-networking-aprendizado-activity-7131830168750309376-CjqZ?utm_source=share&utm_medium=member_desktop)
 
 * Participei do Seminário CCTI, CCOM e CE na Câmara dos Deputados, imerso nas discussões sobre Conectividade Transformadora. Uma experiência enriquecedora, contribuindo para meu entendimento sobre o papel crucial da tecnologia na transformação do Brasil. <br>
-[Aguardando o Certificado...]()
+[Aguardando o Certificado...])
   
 * Participante do BBDigital Week: Exploração intensiva de tecnologia, inovação e networking no Ulysses Guimarães. Adquiri insights valiosos e conexões influentes para impulsionar meu desenvolvimento profissional.<br>
-[Aguardando o Certificado...]()
+[Aguardando o Certificado...])
 
 * Participação destacada na Inova Show, evento que explorou inovação, tecnologia e networking. Envolvimento em palestras, shows e oficinas, contribuindo para uma visão abrangente do cenário atual.<br>
-[Aguardando o Certificado...]()
+[Aguardando o Certificado...])
 <br>
 
 * Participei ativamente do webnário sobre Tecnologias Aplicadas à Educação, promovido pela Associação Brasileira de Comunicação Empresarial (ABERJ), explorando inovações e estratégias para aprimorar o ensino. Discussões enriquecedoras que ampliaram meu entendimento sobre a integração efetiva de tecnologia no ambiente educacional.<br>
