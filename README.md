@@ -11,9 +11,8 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 ## Experiência Profissional
 
 * (2020 - Atual) <br>
-  **Vendedor Autônomo** - Vendas de produtos Têxteis (panos de prato e chão):
-  * Com abordagem direta, faço essas vendas diretamente para os clientes que abordo nas localidades de Brasília.
-  * Uso a forma das vendas para investir em novos cursos e gerar oportunidades na área de desenvolvimento web e programação.
+  **Vendedor Autônomo** - Vendas de produtos Têxteis (panos de prato/chão):
+  * Com abordagem direta, faço essas vendas diretamente para os clientes em comércios da localidade. 
 
 * (2015 - 2016) <br>
   **Deriv.com** - Consultor de afiliados - Freelancer
