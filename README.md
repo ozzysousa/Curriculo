@@ -151,7 +151,7 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 
 <details>
 
-<summary><h2><strong>Habilidades Interpessoais</strong></h2></summary>
+<summary><h2><strong>Soft Skills</strong></h2></summary>
 
 <table>
   <tr>
@@ -167,20 +167,12 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
     <td>Habilidade de lidar com conflitos de maneira construtiva e encontrar soluções para problemas interpessoais.</td>
   </tr>
   <tr>
-    <td><strong style="color: blue;">Empatia:</strong></td>
-    <td>Capacidade de compreender e compartilhar os sentimentos dos outros, demonstrando compaixão e consideração.</td>
-  </tr>
-  <tr>
     <td><strong style="color: blue;">Criatividade:</strong></td>
     <td>Capacidade de pensar de forma inovadora, encontrar soluções criativas para problemas e gerar novas ideias.</td>
   </tr>
   <tr>
     <td><strong style="color: blue;">Adaptabilidade:</strong></td>
     <td>Flexibilidade para se ajustar a mudanças, aprender rapidamente e lidar bem com situações imprevistas.</td>
-  </tr>
-  <tr>
-    <td><strong style="color: blue;">Liderança:</strong></td>
-    <td>Habilidade de influenciar e motivar outros, assumir a liderança e tomar decisões eficazes.</td>
   </tr>
   <tr>
     <td><strong style="color: blue;">Gestão do Tempo:</strong></td>
