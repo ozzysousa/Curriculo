@@ -199,6 +199,15 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 * Curso Git e Github para iniciantes (DIO / [Certificado](https://www.dio.me/certificate/7C1D6909/share)<br>
 * Análise de dados com Power BI (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQFwt_x0TJmpNA/feedshare-shrink_800/0/1694639900593?e=1698278400&v=beta&t=E_6_EeWaqwTRuDPV3RivL_nSa0ptqjGcFdWN61lPoTw)<br>
 * AI no Azure (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQG45wCvPGOolA/feedshare-shrink_800/0/1694141603655?e=1698278400&v=beta&t=HGQTSFzidObdx17uo4sTT-n6BVjtZFEKSsArWFerXNw)
+* AWS - Grupo O BoticárioAWS - Grupo O Boticário
+* Analise de dados - Escola do trabalhador4.0
+* IA no AZURE - Escola do trabalhador4.0
+* Desenvolvimento de software - Cubos Academy
+* Linguagem R - FGV
+* Lógica de Programação - Innovare
+* Primeiros Passos com o Microsoft 365 Copilot
+* RPACertificate_iUPath
+* Web Designer-Fundação Bradesco
 
 </details>
 <hr>
