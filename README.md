@@ -194,7 +194,7 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 
 <details>
 
-<summary><h2><strong>Outros Cursos</strong></h2></summary>
+<summary><h2><strong>Cursos/Certificações</strong></h2></summary>
 
 * Curso Git e Github para iniciantes (DIO / [Certificado](https://www.dio.me/certificate/7C1D6909/share)<br>
 * Análise de dados com Power BI (Microsoft / [Certificado](https://media.licdn.com/dms/image/D4D22AQFwt_x0TJmpNA/feedshare-shrink_800/0/1694639900593?e=1698278400&v=beta&t=E_6_EeWaqwTRuDPV3RivL_nSa0ptqjGcFdWN61lPoTw)<br>
@@ -208,6 +208,26 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 * Primeiros Passos com o Microsoft 365 Copilot
 * RPACertificate_iUPath
 * Web Designer-Fundação Bradesco
+  <br>
+<h2><strong>Certificações</strong></h2>
+
+* Java Programmer - Fundação Bradesco
+
+* Certified Application Developer - HTML - Mimo
+
+* Certified Application Python - Mimo
+
+* Managing Project Stakeholders - National Association of State Boards of Accountancy (NASBA)
+  
+* EXPRESSION BLEND - Fundação Bradesco
+  
+* Segurança da Informação - Universidade de Brasília
+  
+* Tecnologia da Informação e Comunicação - SESI - Serviço Social da Indústria
+  
+* Lógica de Programação - SESI - Serviço Social da Indústria
+  
+* English certificate - EF Standard English Test (EF SET)
 
 </details>
 <hr>
