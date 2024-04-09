@@ -62,13 +62,24 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 
 <details>
 
-<summary><h3><strong>Digital Innovation One (DIO)</strong></h3></summary>
+<summary><h3><strong>Digital Innovation One - DIO</strong></h3></summary>
 
 **Bootcamp Santander**  
 Concluído em Outubro de 2023  
 Participei do Bootcamp Santander, este programa representa uma oportunidade significativa para aprimorar ainda mais minhas habilidades ampliando meu conhecimento em diversas áreas, incluindo Java, Angular, Versionamento de Código com Git e GitHub, Lógica de Programação e outros tópicos essenciais.  
 [Clique aqui para conhecer o programa.](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular?tab=about)  
 [Clique aqui para ver as minhas certificações.](https://www.dio.me/certificate/F17AAF4F/share)
+
+</details>
+
+<details>
+
+<summary><h3><strong>AI Fundamentals - DIO</strong></h3></summary>
+
+**Microsoft Azure AI Fundamentals**  
+Concluído em Março de 2024  
+Adquiri conhecimentos abrangentes sobre os fundamentos da inteligência artificial na nuvem da Microsoft Azure. Aprendi sobre conceitos-chave, como machine learning, processamento de linguagem natural e visão computacional. Além disso, explorei as ferramentas e serviços oferecidos pela plataforma Azure para desenvolver e implementar soluções de IA. 
+[Clique aqui para ver o certificado.](https://www.dio.me/certificate/NCKBXBMD/share)
 
 </details>
 
