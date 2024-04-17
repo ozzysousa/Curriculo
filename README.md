@@ -30,10 +30,15 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
   * Programar em várias linguagens, projetar sistemas de software eficientes, gerenciar bancos de dados e análise de requisitos, gestão de projetos de tecnologia e resolução de problemas complexos de TI.<br>
 [Quer seguir carreira na área de TI, mas ainda não decidiu qual curso fazer? Conheça nossas graduações em Banco de Dados, Ciência da Computação, Ciência de Dados e Engenharia de Computação!](https://afiliado.saberemrede.net/service/633455?sponsor=318456&campus=25672)
 
-* [UNISEB COC Centro Universitário](https://www.cursogratisonline.com.br/faculdade-interativa-coc/) <br>
-  Superior Tecnológico em Marketing <br>
-  Conclusão parcial em 2016 <br>
-  * Introdução aos conceitos fundamentais do marketing, incluindo estratégias de publicidade, pesquisa de mercado, comportamento do consumidor e branding.
+* [Formação Front End T6 ONE - Alura](https://cursos.alura.com.br/formacao-front-end-turma6-one) <br>
+  Formação Tecnológica <br>
+  Conclusão em 2025 <br>
+  * Na Formação T6 para Front End na Alura/Oracle, estou adquirindo habilidades em tecnologias como HTML, CSS, JavaScript, React, entre outras, essenciais para o desenvolvimento de interfaces web modernas e responsivas.
+
+* [Hackers do Bem - RNP, SENAI-SP](https://cursos.alura.com.br/formacao-front-end-turma6-one) <br>
+ Formação Tecnológica <br>
+ Conclusão em 2025 <br>
+  * O programa "Hackers do Bem" representa uma jornada emocionante em direção à maestria na segurança cibernética. Ao longo do curso, estou mergulhando nos conceitos fundamentais da computação em nuvem, desenvolvimento, ameaças cibernéticas e criptografia. Além disso, estou aprimorando minha compreensão em governança, risco e compliance, essenciais para garantir a segurança digital em qualquer ambiente.
 
 ---
 
