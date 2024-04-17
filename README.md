@@ -136,6 +136,7 @@ Durante o curso Intensivão de Power BI, adquiri habilidades avançadas em anál
 * [Curriculo pelo GIThub](https://lnkd.in/diFPjD2A)
 * [Dio-lab-open-source](https://github.com/ozzysousa/dio-lab-open-source)
 * [DecriptorText](https://github.com/ozzysousa/Decriptor-text)
+* [Praticando Front End: Challenge Portfólio](https://github.com/ozzysousa/challenge-one-portfolio-br)
 
 </details>
 <hr>
