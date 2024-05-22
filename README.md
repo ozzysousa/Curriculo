@@ -10,16 +10,9 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 
 ## Experiência Profissional
 
-* (2020 - Atual) <br>
-  **Vendedor Autônomo** - Vendas de produtos Têxteis (panos de prato/chão):
+* (2004 - Atual) <br>
+  **Vendedor Autônomo** - Vendas de produtos variados de limpeza em geral:
   * Com abordagem direta, faço essas vendas diretamente para os clientes em comércios da localidade. 
-
-* (2015 - 2016) <br>
-  **Deriv.com** - Consultor de afiliados - Freelancer
-  * Atuava em uma plataforma de negociação online, oferecendo direcionamento e orientação valiosa a novos traders.
-  * Compartilhei insights sobre estratégias de negociação, análise de mercado e tomada de decisões informadas, contribuindo para o crescimento e sucesso dos traders
-  [Veja o site da Corretora](https://bit.ly/derivapp)
-
 ---
 
 ## Formação
