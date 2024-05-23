@@ -11,8 +11,8 @@ Entusiasta do desenvolvimento dedicado a criar soluções inovadoras e funcionai
 ## Experiência Profissional
 
 * (2004 - Atual) <br>
-  **Vendedor Autônomo** - Vendas de produtos variados de limpeza em geral:
-  * Com abordagem direta, faço essas vendas diretamente para os clientes em comércios da localidade. 
+  **Autônomo** - Vendedor Externo 
+  * Ao longo da minha carreira na área de vendas, tive a oportunidade de trabalhar com grandes empresas como Herbalife, CCAA Idiomas, IQOption, Deriv, e Net Telecomunicações. Nessas posições, desenvolvi habilidades excepcionais de comunicação, negociação e gestão de clientes.
 ---
 
 ## Formação
